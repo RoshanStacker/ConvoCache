@@ -1,0 +1,13 @@
+datasets~=2.16.1
+transformers~=4.32.1
+numpy~=1.26.3
+peft~=0.7.1
+torch~=2.1.2
+nltk~=3.8.1
+urllib3<1.26.1  # 1.26.18 did not work. Might actually be urllib3<2. Problem is lazy import transformers
+tqdm~=4.65.0
+pandas~=2.1.4
+faiss-cpu~=1.7.4
+
+backoff~=2.2.1
+openai~=0.28.1

@@ -1,0 +1,32 @@
+You will be given a conversation between two individuals. You will then be given one potential response for the next turn in the conversation.
+
+Your task is to rate the responses on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Crieteria:
+
+Coherence (1-5) Is the response coherent and follows the flow of the conversation?
+
+
+Evaluation Steps:
+
+1. Read the conversation, the corresponding fact and the response carefully.
+2. Rate the response on a scale of 1-5 for coherence, according to the criteria above.
+3. Provide a brief explanation for your rating, referring to specific aspects of the response and the conversation.
+
+
+Example:
+
+
+Conversation History:
+
+{{Document}}
+
+Response:
+
+{{Response}}
+
+Evaluation Form (scores ONLY, 1-5):
+
+Coherence[1-5]:
